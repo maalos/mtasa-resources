@@ -1,0 +1,24 @@
+<meta>
+    <info
+    name="billboards"
+    author="maalos/regex/soczek"
+    version="1.0.0"
+    description="This scripts changes the texture of every billboard on the map. You can add an unlimited amount of images and change the time between ad changes."
+    type="script"
+    />
+
+    <script src="mapEditorScriptingExtension_s.lua" type="server" />
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false" />
+    <map src="idlewood-poster-fix.map" dimension="0" />
+    
+    <script src="billboards.lua" type="client" /> 
+    <file src="replace.fx" />
+
+    <file src="img/0.jpg" />
+    <file src="img/1.jpg" />
+    <file src="img/2.jpg" />
+    <file src="img/3.jpg" />
+    <file src="img/4.jpg" />
+    <file src="img/5.jpg" />
+    <file src="img/6.jpg" />
+</meta>

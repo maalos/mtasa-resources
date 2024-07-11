@@ -1,0 +1,24 @@
+<meta>
+    <info
+    name="jesusintegrity"
+    author="maalos/regex/soczek"
+    version="0.7"
+    description="Advanced anti-cheat resource for MTA:SA"
+    type="script"
+    />
+
+    <script src="config.lua" type="server" />
+
+    <script src="jesusintegrity.lua" type="server" />
+
+    <script src="misc.lua" type="server" />
+    <script src="elementData.lua" type="server" />
+    <script src="events.lua" type="server" />
+
+    <script src="client.lua" type="client" cache="false" />
+
+    <!-- <file src="res/latency.png" cache="false" />
+    <file src="res/jesusintegrity.jpg" cache="false" /> -->
+
+    <min_mta_version server="1.6.0" />
+</meta>

@@ -1,0 +1,6 @@
+Replace your old default weapon data with this new one :
+
+$ DESERT_EAGLE		INSTANT_HIT	25.0 30.0	348	-1		2	python		6	 140		0.41  0.03  0.12    0  0	0.75 1.0 	 6 30  6     6 30  6  40	7011
+$ DESERT_EAGLE		INSTANT_HIT	30.0 35.0	348	-1		2	python		6	 140		0.41  0.03  0.12    1  200	1.0  1.2 	 6 28  6     6 28  6  40	7011
+$ DESERT_EAGLE		INSTANT_HIT	35.0 35.0	348	-1		2	python		6	 140		0.41  0.03  0.12    2  999	1.25 1.5 	 6 25  6     6 25  6  40	7031
+

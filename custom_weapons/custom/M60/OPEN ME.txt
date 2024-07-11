@@ -1,0 +1,6 @@
+Replace your old default weapon data with this new one :
+
+$ AK47				INSTANT_HIT	140.0 170.0	355	-1		5	rifle		100	 60		0.78 -0.06  0.13    0  0	0.40 0.9 	 6  9  6	 6  9  6  99	A008
+$ AK47				INSTANT_HIT	145.0 170.0	355	-1		5	rifle		100	 60		0.78 -0.06  0.13    1  200	0.50 1.0 	 6  9  6	 6  9  6  99	A018
+$ AK47				INSTANT_HIT	150.0 170.0	355	-1		5	rifle		100	 60		0.78 -0.06  0.13    2  999	0.60 1.1 	 6  9  6	 6  9  6  99	A038
+

@@ -1,0 +1,19 @@
+<meta>
+    <script src="dft30_c.lua" type="client" />
+    <script src="dft30.lua" type="server" />
+
+    <file src="models/dft30tools.txd" />
+
+    <file src="models/hook.dff" />
+    <file src="models/hook.col" />
+
+    <file src="models/ramp.dff" />
+    <file src="models/ramp.col" />
+
+    <file src="models/winch.dff" />
+    <file src="models/winch.col" />
+
+    <file src="models/dft30.dff" />
+    <file src="models/dft30.txd" />
+
+</meta>
